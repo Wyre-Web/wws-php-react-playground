@@ -1,3 +1,3 @@
 # php-react-playground
-Playground for experimenting with PHP and React
+WWS playground for experimenting with PHP and React.
 
